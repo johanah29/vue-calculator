@@ -51,9 +51,9 @@ export default {
     color: white;
 }
 .opButton{
-    background-color: #38908f;
+    background-color: #2F2F2F;
 }
 .regButton{
-    background-color: #676767;
+    background-color: #01BAEF;
 }
 </style>
